@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/servlets/SvPersona.java</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/web/modificar.jsp</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/web/index.jsp</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/logic/controladora.java</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/servlets/SvModificar.java</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/persistencia/ControladoraPersistencia.java</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/persistencia/PersonaJpaController.java</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/web/verpersonas.jsp</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/servlets/SvBorrar.java</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/logic/Persona.java</file>
+            <file>file:/home/i3-nativan/NetBeansProjects/PruebaJSP/src/java/servlets/SvModDatos.java</file>
+        </group>
+    </open-files>
+</project-private>
